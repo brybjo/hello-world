@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Bryndís' first epository, the classic "hello-world"
